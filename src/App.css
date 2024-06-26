@@ -1,0 +1,10 @@
+.custom-navbar{
+  background-color: #1E0F52;
+  font-size: 20px;
+}
+
+.App {
+  background: url('../public/backgroundgif.gif');
+  background-position: center;
+  background-size: cover;
+}
